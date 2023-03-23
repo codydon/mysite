@@ -3,7 +3,6 @@ from django.urls import path
 from . import views
 
 #     path('<int:question_id>/results/', views.results, name='results'),
-#     # ex: /polls/5/vote/
 # ]
 
 app_name = 'polls'
